@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**csun22/csun22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on mediia forensics focus on audio deepfake.
+🔭 I’m currently working on mediia forensics focus on audio deepfake.
 Laboratory Manager & Graduate Research Assistant
 UB Media Forensics Lab (UB MDFL)
 Department of Computer Science & Engineering
