@@ -6,5 +6,5 @@
   - 301A Davis Hall, University at Buffalo
   - (716) 645-4768 
   - csun22@buffalo.edu
-https://cse.buffalo.edu/~csun22/
+-https://cse.buffalo.edu/~csun22/
 
