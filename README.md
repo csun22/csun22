@@ -1,5 +1,5 @@
 - 👋 My name is Chengzhe Sun
-- 👯 I'm currently a Laboratory Manager & Graduate Research Assistant from UB Media Forensics Lab (UB MDFL), Department of Computer Science & Engineering, University at Buffalo
+- 👯 I'm currently a Laboratory Manager and Research Assistant from UB Media Forensics Lab (UB MDFL), Department of Computer Science & Engineering, University at Buffalo
 - 🔭 I'm working on media forensics, focusing on audio deepfake.
 - 💞️ I'm looking to collaborate on all media forensics related tasks.
 - 📫 Feel free to reach me: 
